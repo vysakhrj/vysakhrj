@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vysakh R J</h1>
-<h3 align="center">A passionate fullstack/app developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+full+stack+developer+&hearts;++;Self-taught+Front-End+Developer,;Flutter+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+full+stack+developer+&hearts;++;A+Self-taught+Front-End+Developer,;A+Flutter+Developer,;An+Active+Learner,;Love+to+learn+new+stuffs+&hearts"></a>
 </p>
 
 <br>
