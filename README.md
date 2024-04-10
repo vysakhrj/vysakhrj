@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Vysakh R J</h1>
 <h3 align="center">A passionate fullstack/app developer from India</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+full+stack+developer+&hearts;++;Self-taught+Front-End+Developer,;Flutter+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjvysakh&label=Profile%20views&color=0e75b6&style=flat" alt="rjvysakh" /> </p>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vysakhrj" alt="vysakhrj" /></a> </p> -->
