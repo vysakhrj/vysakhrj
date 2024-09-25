@@ -39,6 +39,7 @@
 <p align="left">
 <a href="https://vysakh-rj.web.app" target="_blank"><img align="center" src="https://vysakh-rj.web.app/10eb17d7a53788811ae5.png" alt="i_am_vysakhrj" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/vysakh-rj-85873814b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vysakh-rj" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0138f943bae24e4098" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/upwork_logo_icon_170310.png" alt="vysakh-rj" height="30" width="40" /></a>
 <a href="https://twitter.com/i_am_vysakhrj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_vysakhrj" height="30" width="40" /></a>
 <a href="https://fb.com/rjvysakh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rjvysakh" height="30" width="40" /></a>
 <a href="https://instagram.com/_.rjlicious._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rjlicious._" height="30" width="40" /></a>
